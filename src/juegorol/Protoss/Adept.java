@@ -15,4 +15,4 @@ public class Adept extends Protoss
         this.puntosunidad=1;
    }
 }
-//kappa
+//no_tengo_manos
